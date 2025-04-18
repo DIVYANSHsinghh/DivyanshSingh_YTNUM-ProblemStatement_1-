@@ -17,4 +17,4 @@
    ""   THIS IS THE LINK OF MY UI design : https://readdy.site/share/52ab85e20922d049b7b038af7edc4972   ""
 
 
-  
+  ![image alt](https://github.com/DIVYANSHsinghh/DivyanshSingh_YTNUM-ProblemStatement_1-/blob/1732ea5d2f3be7b5a4fdded46ebbef7ce5e9a312/Capturell.JPG)
