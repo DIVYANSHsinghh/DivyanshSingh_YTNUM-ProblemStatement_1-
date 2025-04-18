@@ -1,14 +1,15 @@
 # DivyanshSingh_YTNUM-ProblemStatement_1-
 
-Mindful Watching Without Killing Engagement.
-Redesign YouTube’s mobile viewing experience to discourage compulsive binge-watching—but in a way that doesn’t negatively affect engagement or retention. Your design should subtly influence user behavior through interface alone (no backend logic), preserving the dopamine-driven flow of content consumption.
+# Mindful Watching Without Killing Engagement.
+   * Redesign YouTube’s mobile viewing experience to discourage compulsive binge-watching—but in a way that doesn’t negatively affect engagement or retention. Your design should subtly influence user behavior through interface alone (no backend logic), preserving the 
+     dopamine-driven flow of content consumption.
 
-Focus Areas:
+# Focus Areas:
 
-Micro-interactions that promote break-taking
+* Micro-interactions that promote break-taking
 
-Visual rhythm cues tied to watch patterns
+* Visual rhythm cues tied to watch patterns
 
-Non-intrusive session/time reminders
+* Non-intrusive session/time reminders
 
-Subconscious nudges baked into layout
+* Subconscious nudges baked into layout
